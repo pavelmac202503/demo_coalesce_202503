@@ -13,7 +13,7 @@ operation:
   description: Orders data as defined by TPC-H
   isMultisource: false
   locationName: DW_STG_DATASTORE
-  materializationType: table
+  materializationType: view
   metadata:
     appliedNodeTests: []
     columns:
