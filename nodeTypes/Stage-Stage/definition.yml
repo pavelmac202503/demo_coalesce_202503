@@ -2,7 +2,7 @@ fileVersion: 1
 id: Stage
 isDisabled: false
 metadata:
-  defaultStorageLocation: null
+  defaultStorageLocation: DW_STG_DATASTORE
   error: null
   nodeMetadataSpec: |
     capitalized: Stage

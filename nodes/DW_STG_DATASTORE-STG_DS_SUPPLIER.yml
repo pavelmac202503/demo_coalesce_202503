@@ -1,6 +1,6 @@
 fileVersion: 1
 id: cfcf2aab-f4eb-49de-91e6-02bddb70363b
-name: STG_SUPPLIER
+name: STG_DS_SUPPLIER
 operation:
   config:
     insertStrategy: INSERT
@@ -126,9 +126,9 @@ operation:
             nodeName: SUPPLIER
         join:
           joinCondition: FROM {{ ref('SRC', 'SUPPLIER') }} "SUPPLIER"
-        name: STG_SUPPLIER
+        name: STG_DS_SUPPLIER
         noLinkRefs: []
-  name: STG_SUPPLIER
+  name: STG_DS_SUPPLIER
   overrideSQL: false
   schema: ""
   sqlType: Stage
