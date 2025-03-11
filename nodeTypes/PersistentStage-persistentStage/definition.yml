@@ -2,7 +2,7 @@ fileVersion: 1
 id: persistentStage
 isDisabled: false
 metadata:
-  defaultStorageLocation: null
+  defaultStorageLocation: DW_DATASTORE
   error: null
   nodeMetadataSpec: |
     capitalized: Persistent Stage
