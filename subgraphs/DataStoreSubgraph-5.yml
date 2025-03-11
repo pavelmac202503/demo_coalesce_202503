@@ -1,0 +1,21 @@
+fileVersion: 1
+id: "5"
+name: DataStore Subgraph
+steps:
+  - 2dd41677-0f9f-4fff-a215-f136f19e6ce4
+  - 4b06c684-4173-4265-b289-d142ea1148a5
+  - 58b4d64b-1f4d-4d0e-a91a-7da8c0ce9af0
+  - 5e51da4c-b5df-43f2-8e50-e9f7047f7ad0
+  - 6a095acd-7d75-4d19-bac6-4b5056e3ac9d
+  - 6e49b15c-7403-41b0-a772-22fabf3cb726
+  - 87fa5953-a7d4-41be-96bb-99dab735339e
+  - 929676ee-18f5-43d1-883a-d6124b85ca92
+  - ae27dd58-da17-48ae-8f8a-fd88f4116681
+  - b2649091-843c-4f5d-8a3b-e83631f254be
+  - bfbfd843-8410-47bf-bd17-a9f29f853193
+  - c33450c3-610c-43cd-8a08-4d18031e193f
+  - cfcf2aab-f4eb-49de-91e6-02bddb70363b
+  - e0e34b83-80b8-4a00-8fc8-0e58e754252d
+  - e74d4126-0134-412d-942c-b86f91fd9d52
+  - f8edd359-2b1c-43c8-9779-db1691404668
+type: Subgraph
